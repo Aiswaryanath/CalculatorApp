@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculatorapp2</string>
+    <string-array name="operation">
+        <item>add</item>
+        <item>sub</item>
+        <item>mul</item>
+        <item>div</item>
+    </string-array>
+</resources>
